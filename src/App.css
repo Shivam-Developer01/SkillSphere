@@ -13,3 +13,20 @@
   display: flex;
   justify-content: center;
 }
+
+.MeetButton{
+  display: flex;
+  /* flex-direction: column; */
+  justify-content:space-between;
+  
+}
+
+.BGI{
+  max-height: 80vh;
+  width: 70vw;
+}
+
+.ImgBox{
+  display: flex;
+  justify-content: center;
+}
