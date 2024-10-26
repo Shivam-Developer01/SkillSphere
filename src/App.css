@@ -1,0 +1,15 @@
+.square-image {
+  width: 100%; /* Make the image take the full width of the card */
+  height: auto; /* Maintain aspect ratio */
+  aspect-ratio: 1 / 1; /* Force the image to be square */
+  object-fit: cover; /* Ensure the image covers the square without distortion */
+}
+
+.rdContainer{
+  min-width: 55vw;
+}
+
+.Center{
+  display: flex;
+  justify-content: center;
+}
